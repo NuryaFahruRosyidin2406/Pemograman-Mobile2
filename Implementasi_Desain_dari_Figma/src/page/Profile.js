@@ -25,7 +25,7 @@ const Profile = () => {
               color: 'white',
               marginTop: 15,
             }}>
-            Nurya Fahru Rosyidin
+            Qorio Surya Akbar
           </Text>
           <Text
             style={{
@@ -34,7 +34,7 @@ const Profile = () => {
               color: 'white',
               marginTop: 15,
             }}>
-            08123456789
+            08132121212121
           </Text>
         </View>
       </View>

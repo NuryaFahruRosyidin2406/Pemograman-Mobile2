@@ -71,7 +71,7 @@ const LoginScreen = ({navigation}) => {
           </Text>
         </TouchableOpacity>
         <TouchableOpacity
-          onPress={() => navigation.navigate('RegistrasiScreen')}>
+          onPress={() => navigation.navigate('RegistrationScreen')}>
           <Text
             style={{
               fontSize: 16,

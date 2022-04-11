@@ -69,7 +69,7 @@ function Tabs() {
 const App = () => {
   return (
     <NavigationContainer>
-      <Stack.Navigator initialRouteName="RegistrationScreen">
+      <Stack.Navigator initialRouteName="LoginScreen">
         <Stack.Screen
           name="SplashScreen"
           component={SplashScreen}
